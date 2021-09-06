@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+## I'm learning and practicing machine learning concepts on my own.
+
+## I had participated in some data science and machine learning competitions. Some of my work is uploaded here.
+
+## Looking for an opportunity in machine learning/data science.
+
+
+
+
 <!--
 **hariprasath-v/hariprasath-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
