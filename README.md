@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-## I'm learning and practicing machine learning concepts on my own.
+## I'm learning and practicing machine learning concepts.
 
 ## I had participated in some data science and machine learning competitions. Some of my work is uploaded here.
 
