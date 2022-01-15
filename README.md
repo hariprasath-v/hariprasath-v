@@ -3,8 +3,6 @@
 
 ## I'm learning and practicing machine learning concepts.
 
-## I had participated in some data science and machine learning competitions. Some of my work is uploaded here.
-
 ## Looking for an opportunity in machine learning/data science.
 
 
