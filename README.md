@@ -5,6 +5,8 @@
 
 ## Looking for an opportunity in machine learning/data science.
 
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=hariprasath-v)
+
 
 ![](https://komarev.com/ghpvc/?username=hariprasath-v&color=green&style=for-the-badge&label=PROFILE+VIEWS)
 
