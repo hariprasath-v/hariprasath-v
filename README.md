@@ -6,7 +6,7 @@
 ## Looking for an opportunity in machine learning/data science.
 
 
-
+![](https://komarev.com/ghpvc/?username=hariprasath-v&color=green&style=for-the-badge&label=PROFILE+VIEWS)
 
 <!--
 **hariprasath-v/hariprasath-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
