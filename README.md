@@ -10,6 +10,7 @@
 
 # Demo Projects
 ### [Road Pothole Detection Using YOLOv7](https://road-pothole-detection.streamlit.app/)
+### [Freshwater Quality](https://freshwater-quality.streamlit.app/)  
      
     
 
