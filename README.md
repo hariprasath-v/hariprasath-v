@@ -9,8 +9,9 @@
 [![](https://raw.githubusercontent.com/hariprasath-v/profile-summary/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hariprasath-v/profile-summary/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 # Demo Projects
+### [Nnet101_Assistant - LLM](https://nnet101assistant.streamlit.app/)
 ### [Road Pothole Detection Using YOLOv7](https://road-pothole-detection.streamlit.app/)
-### [Freshwater Quality](https://freshwater-quality.streamlit.app/)  
+### [Freshwater Quality - Tabular Data](https://freshwater-quality.streamlit.app/)  
      
     
 
